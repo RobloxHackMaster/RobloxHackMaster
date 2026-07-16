@@ -1,10 +1,5 @@
 # RobloxHackMaster - Professional Roblox Development Tool
 
-![GitHub stars](https://img.shields.io/github/stars/RobloxHackMaster/RobloxHackMaster?style=social)
-![GitHub forks](https://img.shields.io/github/forks/RobloxHackMaster/RobloxHackMaster?style=social)
-![GitHub issues](https://img.shields.io/github/issues/RobloxHackMaster/RobloxHackMaster)
-![License](https://img.shields.io/github/license/RobloxHackMaster/RobloxHackMaster)
-
 [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobloxHackMaster/RobloxHackMaster/releases/)
 
 **Advanced Roblox Lua Scripting Framework & Developer Toolkit** by **RobloxHackMaster** — Professional Roblox Developer with **3+ years** of experience.
